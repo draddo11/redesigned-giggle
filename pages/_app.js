@@ -53,3 +53,5 @@ class App extends NextApp {
     );
   }
 }
+
+export default App;

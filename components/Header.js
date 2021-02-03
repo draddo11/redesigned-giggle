@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Flex, Icon, Avatar, Text } from '@chakra-ui/core';
+import { Box, Flex, Icon, Avatar, Text } from '@chakra-ui/react';
 function Header() {
   return (
     <Box backgroundColor="#fafafb" paddingLeft="50px" paddingRight="50px">

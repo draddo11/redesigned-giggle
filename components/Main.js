@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box } from '@chakra-ui/core';
+import { Box } from '@chakra-ui/react';
 function Main({ children }) {
   return (
     <Box paddingLeft="40px" paddingTop="40px">

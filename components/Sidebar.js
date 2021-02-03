@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Flex, Text } from '@chakra-ui/core';
+import { Box, Flex, Text } from '@chakra-ui/react';
 import { FaRegClock, FaRegListAlt, FaRegUser } from 'react-icons/fa';
 function Sidebar() {
   return (
