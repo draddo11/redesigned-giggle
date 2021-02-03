@@ -1,7 +1,7 @@
 import React from 'react';
 import NextApp from 'next/app';
-import { ThemeProvider, CSSReset } from '@chakra-ui/core';
-import { theme } from '@chakra-ui/core';
+import { ThemeProvider, CSSReset } from '@chakra-ui/react';
+import { theme } from '@chakra-ui/react';
 const customIcons = {
   logo: {
     path: (
@@ -52,3 +52,4 @@ class App extends NextApp {
       </ThemeProvider>
     );
   }
+}
